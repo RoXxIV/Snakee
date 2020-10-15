@@ -1,5 +1,5 @@
 window.onload = function(){ //By default, it is fired when the entire page loads, including its content (images, CSS, scripts, etc.).
-//------------MES VARIAIABLEs---------------
+//------------MES VARIAIABLEs--------------
  
     const canvasWidth = 900;
     const canvasHeight = 600;
@@ -18,7 +18,7 @@ window.onload = function(){ //By default, it is fired when the entire page loads
 
     init();
 
-//---------CREATION DU CANVAS----------------
+//---------CREATION DU CANVAS---------------
 
     function init(){
             canvas.width = canvasWidth;
